@@ -1,4 +1,4 @@
-<img src="screenshots/banner.png"/>
+app/build.gradle٣<img src="screenshots/banner.png"/>
 
 
 <a href="README_CN.md">简体中文</a>
